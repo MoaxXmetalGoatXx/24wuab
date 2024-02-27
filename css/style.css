@@ -1,0 +1,28 @@
+header {
+    height: 50px;
+    display: ;
+}
+.material-icons.md {
+    font-size: 0px;
+    float: left;
+ }
+ .logo {
+    background-color: aquamarine;
+ }
+ #menu {
+    font-size: 40px;
+    float: right;
+    padding-right: 5px;
+ }
+ @media (min-width: 600px) {
+    .material-icons.md  { 
+        font-size: 36px;
+     }
+ }
+@
+@
+@
+{ }.
+{ }
+{ }.
+{ }.
